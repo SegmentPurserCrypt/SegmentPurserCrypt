@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- update: A -->
+<!-- update: B -->
 
-> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"
+> 💡 *IT Quote:* "_Code is like humor. When you have to explain it, it’s bad. – Cory House_"

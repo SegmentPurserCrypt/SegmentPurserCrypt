@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Experience is the name everyone gives to their mistakes. – Oscar Wilde_"
+> 💡 *IT Quote:* "_Talk is cheap. Show me the code. – Linus Torvalds_"

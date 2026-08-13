@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
+> 💡 *IT Quote:* "_Fix the cause, not the symptom. – Steve Maguire_"

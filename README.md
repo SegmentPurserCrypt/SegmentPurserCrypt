@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- update: B -->
+<!-- update: A -->
 
-> 💡 *IT Quote:* "_Simplicity is prerequisite for reliability. – Edsger W. Dijkstra_"
+> 💡 *IT Quote:* "_Make it work, make it right, make it fast. – Kent Beck_"
